@@ -36,3 +36,5 @@
 | 10.        | Zaustavljanje takmičenja       | Sistem će omogućiti organizatoru da okonča takmičenje.                                     | Visok     |
 | 11.        | Dodeljivanje izazova za takmičenja | Sistem će omogućiti organizatoru da zadaje izazove u okviru takmičenja.                  | Visok     |
 | 12.        | Kontrola pristupa učesnika
+
+60/2021  232/2021  260/2021

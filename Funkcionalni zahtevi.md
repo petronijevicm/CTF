@@ -39,4 +39,4 @@
 | 13.        | Validacija rezultata | Sistem će omogućiti organizatoru da potvrdi rezultate takmičara.                                        | Visok|
 
 
-60/2021  232/2021  260/2021
+60/2021    230/2021    262/2021

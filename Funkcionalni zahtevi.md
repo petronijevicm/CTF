@@ -35,6 +35,8 @@
 | 9.         | Pokretanje takmičenja          | Sistem će omogućiti organizatoru da pokrene takmičenja.                                    | Visok     |
 | 10.        | Zaustavljanje takmičenja       | Sistem će omogućiti organizatoru da okonča takmičenje.                                     | Visok     |
 | 11.        | Dodeljivanje izazova za takmičenja | Sistem će omogućiti organizatoru da zadaje izazove u okviru takmičenja.                  | Visok     |
-| 12.        | Kontrola pristupa učesnika
+| 12.        | Kontrola pristupa učesnika | Sistem će omogućiti organizatoru da kontroliše pristup takmičara.                               | Visok |
+| 13.        | Validacija rezultata | Sistem će omogućiti organizatoru da potvrdi rezultate takmičara.                                        | Visok|
+
 
 60/2021  232/2021  260/2021

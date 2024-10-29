@@ -1,12 +1,10 @@
 ﻿60/2021        230/2021        262/2021
-Definisanje funkcionalnih zahteva “Capture The Flag”
 
+Definisanje funkcionalnih zahteva “Capture The Flag”
 
 Prioriteti: Visok, Srednji, Nizak
 
-
 Korisnik: User
-
 
 Redni broj
 	Zahtev
@@ -56,20 +54,9 @@ Redni broj
 	Uređivanje profila
 	Sistem će omogućiti korisnicima da izmene i ažuriraju svoje informacije na profilu. 
 	Nizak
-	
-
-
-
-
-
-
-
-
-
 
 
 Korisnik: Admin
-
 
 Redni broj
 	Zahtev
